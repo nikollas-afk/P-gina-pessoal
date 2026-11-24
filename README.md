@@ -22,7 +22,7 @@ Estudante de **Ciência de Dados e Inteligência Artificial**, focado em transfo
 
 ### Projetos em Destaque
 
-- **[Nome do Projeto 1](link-do-repositorio)** — Breve descrição do problema resolvido, algoritmos usados e principal métrica alcançada (ex: *Previsão de churn com XGBoost atingindo 88% de ROC-AUC*).
+- **[TOSIOS](https://github.com/nikollas-afk/TOSIOS.git)** —The Open-Source IO Shooter is an open-source multiplayer game in the browser.
 - **[Nome do Projeto 2](link-do-repositorio)** — Breve descrição (ex: *Análise de sentimentos em avaliações de clientes utilizando processamento de linguagem natural*).
-- **[Nome do Projeto 3](link-do-repositorio)** .
+
 
