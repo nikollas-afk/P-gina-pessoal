@@ -1,4 +1,4 @@
-# P-gina-pessoal
+# Pagina-pessoal
 
 ### Olá, eu sou Nikollas.
 
@@ -6,7 +6,7 @@ Estudante de **Ciência de Dados e Inteligência Artificial**, focado em transfo
 
 - 🔭 **Foco atual:** Desenvolvimento de modelos preditivos e pipelines de dados.
 - 🌱 **Estudando:** Machine Learning, Deep Learning e Engenharia de Dados.
-- 📫 **Contato:** E-mail: nikollas@edu.uniube.br | [E-mail]: nikollasjhonattan@gmail.com
+- 📫 **Contato:** E-mail: nikollas@edu.uniube.br | E-mail: nikollasjhonattan@gmail.com
 
 ---
 
@@ -14,7 +14,7 @@ Estudante de **Ciência de Dados e Inteligência Artificial**, focado em transfo
 
 - **Linguagens:** Python, SQL, Java.
 - **Análise & Manipulação:** Pandas.
-- **Machine Learning & IA:** Scikit-learn, PyTorch, TensorFlow, Hugging Face
+- **Machine Learning & IA:** Scikit-learn, TensorFlow, Hugging Face
 - **Visualização & BI:** Plotly, Power BI
 - **Ferramentas & Cloud:** Git, Docker.
 
