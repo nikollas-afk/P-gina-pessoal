@@ -22,7 +22,7 @@ Estudante de **Ciência de Dados e Inteligência Artificial**, focado em transfo
 
 ### Projetos em Destaque
 
-- **[TOSIOS](https://github.com/nikollas-afk/TOSIOS.git)** —The Open-Source IO Shooter is an open-source multiplayer game in the browser.
+- **[TOSIOS](https://github.com/nikollas-afk/TOSIOS.git)** — O Open-Source IO Shooter é um jogo multijogador de código aberto que roda no navegador..
 - **[Nome do Projeto 2](link-do-repositorio)** — Breve descrição (ex: *Análise de sentimentos em avaliações de clientes utilizando processamento de linguagem natural*).
 
 
