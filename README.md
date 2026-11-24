@@ -6,7 +6,7 @@ Estudante de **Ciência de Dados e Inteligência Artificial**, focado em transfo
 
 - 🔭 **Foco atual:** Desenvolvimento de modelos preditivos e pipelines de dados.
 - 🌱 **Estudando:** Machine Learning, Deep Learning e Engenharia de Dados.
-- 📫 **Contato:** [E-mail] nikollas@edu.uniube.br 
+- 📫 **Contato:** E-mail: nikollas@edu.uniube.br | [E-mail]: nikollasjhonattan@gmail.com
 
 ---
 
